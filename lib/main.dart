@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Lightning News App',
       theme: ThemeData.dark().copyWith(
         appBarTheme: const AppBarTheme(color: Colors.transparent, centerTitle: true),
       ),
