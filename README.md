@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was coded by Oguzhan Yildirim.
 
-A few resources to get you started if this is your first Flutter project:
+<h1> Day 1 : Project Start and Coded Home Page </h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.hizliresim.com/c464lw4.png" alt="TFT Guide: Day 2" width = "300"></td>
+    <td><img src="https://i.hizliresim.com/hql7qks.png" alt="TFT Guide: Day 2" width = "300"></td>
+    <td><img src="https://i.hizliresim.com/52ztsa6.png" alt="TFT Guide: Day 2" width = "300"></td>
+  </tr>
+</table>
